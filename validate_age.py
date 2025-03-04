@@ -3,4 +3,3 @@ def validate_age(age):
         print("Not eligible for voting\n\n")
     else:
         print("Eligible for voting\n\n")
-        
